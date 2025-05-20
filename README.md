@@ -6,7 +6,8 @@
 - Problem-3: Custom Odd Number Series Based on Input
 - Problem-4: Count Multiples of 1–9 in a Given Array
 - This repository contains four problems that I solved in Javascript.
- Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
+  
+Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
   Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
   Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
  
